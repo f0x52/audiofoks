@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "audio-esp32")(type "KiCad")(uri "${KIPRJMOD}/audio-esp32.kicad_sym")(options "")(descr ""))
+  (lib (name "f0xparts")(type "KiCad")(uri "${KIPRJMOD}/f0xparts/f0xparts.kicad_sym")(options "")(descr ""))
 )
