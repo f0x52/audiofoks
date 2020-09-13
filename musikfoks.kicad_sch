@@ -305,7 +305,7 @@
         )
       )
     )
-    (symbol "audio-esp32:MicrophoneModule"
+    (symbol "musikfoks:MicrophoneModule"
       (property "Reference" "U" (id 0) (at 0 14.224 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1026,7 +1026,7 @@
     )
   )
 
-  (symbol (lib_id "audio-esp32:MicrophoneModule") (at 99.06 50.8 0) (unit 1)
+  (symbol (lib_id "musikfoks:MicrophoneModule") (at 99.06 50.8 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "37d4b7d9-793d-4ca6-9377-f5daa7d5922c")
     (property "Reference" "U2" (id 0) (at 90.17 49.53 0)
@@ -1035,7 +1035,7 @@
     (property "Value" "MicrophoneModule" (id 1) (at 90.17 50.8 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "audio-esp32:MicrophoneModule" (id 2) (at 99.06 50.8 0)
+    (property "Footprint" "musikfoks:MicrophoneModule" (id 2) (at 99.06 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 99.06 50.8 0)
